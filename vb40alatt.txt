@@ -1,0 +1,11 @@
+Név;Férőhely
+Luzsnyiki Stadion;78011fő
+Otkrityije Aréna;44190fő
+Kresztovszkij Stadion;64468fő
+Fist Olimpiai Stadion;47659fő
+Szamara Aréna;41970fő
+Kazán Aréna;42873fő
+Rosztov Aréna;43472fő
+Volgográd Aréna;43713fő
+Nyizsnyij Novgorod Stadion;43319fő
+Mordóvia Aréna;41685fő
